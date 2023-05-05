@@ -7,6 +7,9 @@
 
 <p align="center">Team Members: Avaninder Bath | Nikolaos Diamantakis | John Wiens-Soshycki | Luana Ribeiro Madeira</p>
 
+## General Functionality
+- The application allow the users to choose different geographic regions of the same level (provinces or towns) and a specific period and compare the NHPIs over time using various visualizations. 
+
 ## Version 2.0 Notes
 - JFreeChart, mysql-connector, and Apache Math Commons libraries are already imported and ready to use, so there should be no need to import them manually
 - All implemented parts of the application now work together, as part of the requirements for this application
@@ -17,3 +20,5 @@
 - Create a schema called "database" in MySQL Workbench, and open/run the NHPI-Database.sql file to complete setup of the database for this program
 - Run UserInterface.java - this is the main file of the program
 - Enjoy!
+
+
